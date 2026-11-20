@@ -1,0 +1,8 @@
+sku,name,category,unit_price_czk,power_va,description
+RC-100,Room Controller RC-100,controller,4200,6,Fan-coil room controller with BACnet MS/TP interface
+TS-20,Room Temperature Sensor TS-20,sensor,890,0,NTC 10k wall-mounted temperature sensor
+CO2-30,CO2 Sensor CO2-30,sensor,3150,3,NDIR CO2 sensor 0-2000 ppm with 0-10 V output
+VA-24,Valve Actuator VA-24,actuator,2650,4,24 V AC thermal valve actuator for 2-way valves
+AR-50,Access Card Reader AR-50,access,5400,5,RFID card reader for guest room doors
+SD-10,Smoke Detector SD-10,fire,1450,0,Addressable optical smoke detector
+PS-24,Power Supply 24V AC 100VA,power,2300,0,Transformer 230/24 V AC 100 VA for field devices

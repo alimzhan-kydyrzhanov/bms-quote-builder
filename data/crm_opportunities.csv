@@ -1,0 +1,11 @@
+opportunity_id,customer,owner,stage,value_czk,created,closed
+OP-001,Vltava Hotels,Novak,Won,1250000,2026-01-10,2026-03-02
+OP-002,Clinic Karlin,Svoboda,Lost,480000,2026-01-22,2026-02-28
+OP-003,Office Park Brno,Novak,Proposal,2100000,2026-02-05,
+OP-004,School Ostrava,Dvorak,Won,690000,2026-02-14,2026-04-20
+OP-005,Retail Plzen,Svoboda,Negotiation,830000,2026-03-01,
+OP-006,Hospital Olomouc,Dvorak,Qualification,3400000,2026-03-18,
+OP-007,Hotel Brno,Novak,Lost,560000,2026-04-02,2026-05-15
+OP-008,Warehouse Kladno,Svoboda,Won,410000,2026-04-11,2026-05-30
+OP-009,Hotel Bratislava,Dvorak,Proposal,1180000,2026-05-07,
+OP-010,Clinic Kosice,Novak,Negotiation,720000,2026-06-01,
